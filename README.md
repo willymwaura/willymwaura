@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am wilson mwaura a full stack web developer.<br>Currently i am a student in JKUAT<br>
+i am wilson mwaura a full stack web developer.<br> JKUAT alumni<br>
 
 
 ## 🌐 Socials:
