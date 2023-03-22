@@ -11,7 +11,7 @@ you can find me via my twitter account below
 # 📊 GitHub Stats:
 
 
-<br/>username=willymwaura&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=willymwaura&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
