@@ -1,6 +1,6 @@
 # 💫 About Me:
 i am wilson mwaura a full stack web developer.<br> JKUAT alumni<br>
-am also a tech blogger find me here https://medium.com/@wilsonmwaura697
+am also a tech blogger find me here https://medium.com/@wilsonmwaura697 <br>
 you can find me via my twitter account below 
 
 
