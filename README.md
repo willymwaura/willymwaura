@@ -25,7 +25,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=django,golang,express,flask,git,github,heroku,html,js,linux,mongodb,mysql,nodejs,ps,py,aws,docker,kubernetes,postesgresql&perline=10">
+  <img src="https://skillicons.dev/icons?i=python,golang,javascript,git,github,html,js,linux,mongodb,mysql,py,aws,docker,kubernetes,postesgresql&perline=10">
 </p>
 
 
