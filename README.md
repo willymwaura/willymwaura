@@ -8,7 +8,7 @@
   <img align="right" alt="coding_img" width="380" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
   </p>
 
-- 🔭 I’m currently working on kenyathena water company system as the Lead developer .
+- 🔭 I’m currently working on kenyathena water company  as the Lead developer and Mencham developer as the Lead backend dev .
 
 - 🌱 I’m currently learning **golang and aws **
 
